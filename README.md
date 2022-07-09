@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @xJrcc
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning py
-- 💞️ I’m looking to collaborate on discord bots with js but mildly py since im still learning.
-- 📫 How to reach me my discord: Jrcc#4082
+- 📫 How to reach me my discord: ciphr#0001
 
 <!---
 xJrcc/xJrcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
